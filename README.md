@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently A Software Engineering Student At Jimma Institute Of Technology And Working on Android And Web Projects.
+Hi, I'm Tedros Teshome, A Software Engineering Student At Jimma Institute Of Technology And Working on Android And Web Projects.
 
 
 ## 🌐 Socials:
