@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tedros Zion
+# 👋 Hi, I'm Tedros Teshome
 
 🎓 Software Engineering Student at **Jimma Institute of Technology**  
 💻 Passionate about building **Android** and **Web** applications
@@ -9,7 +9,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/SeriousRas)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/SeriousRas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SeriousRas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SeriousRasCode)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/SeriousRas)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@SeriousRas)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tedroszion@gmail.com)
@@ -56,8 +56,4 @@
 > _"Code is like humor. When you have to explain it, it’s bad."_
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=SeriousRasCode&icon=0&color=0)
 
