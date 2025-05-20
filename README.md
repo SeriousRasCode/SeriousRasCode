@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeriousRasCode&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeriousRasCode&show_icons=true&theme=tokyonight&cache_seconds=3600)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeriousRasCode&layout=compact&theme=tokyonight)
 
 ---
