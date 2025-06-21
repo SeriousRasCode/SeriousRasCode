@@ -65,13 +65,19 @@ My personal site to showcase projects, skills, and contact information.
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeriousRasCode&bg_color=1f1f1f&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeriousRasCode&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeriousRasCode&theme=github_dark)
-![Contributions](https://github-contributor-stats.vercel.app/api?username=SeriousRasCode&limit=5&theme=dark)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeriousRasCode&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SeriousRasCode&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true)
+![Code Time](https://github-readme-activity-graph.vercel.app/graph?username=SeriousRasCode&custom_title=Weekly%20Development%20Activity&theme=github-compact)
+
+# 🧠 Used Languages (via GitHub Profile Summary Cards):
+![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeriousRasCode&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeriousRasCode&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SeriousRasCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
