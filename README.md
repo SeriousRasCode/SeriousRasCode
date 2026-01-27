@@ -77,7 +77,7 @@ My personal site to showcase projects, skills, and contact information.
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeriousRasCode&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SeriousRasCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SeriousRasCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
